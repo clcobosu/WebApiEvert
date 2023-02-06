@@ -64,6 +64,7 @@ namespace WebApi.Controllers
 
 
         [HttpDelete("{id}")]
+        
         public JsonResult Delete(int id)
         {
             var result = _employee.DeleteEmployee(id);
@@ -89,7 +90,7 @@ namespace WebApi.Controllers
 
                 return new JsonResult(filename);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return new JsonResult("anonymous.png");
             }

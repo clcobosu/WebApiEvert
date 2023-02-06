@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

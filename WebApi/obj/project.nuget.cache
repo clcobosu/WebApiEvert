@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKYezhRiH83kkDWovSEF0bOB3cgwqf9XDaLlhNSkyQtpiY2YWRF6M08FCImpnCx+ieUR4BV6bOMl5JzODLzEoQ==",
+  "dgSpecHash": "txWw2puUqkREAXYf0HZKrTAizw9MvPMWsXu5l9M2sOqYcueBB9sXNZjy0F6w0rjUwDg9oZhL6Me5W/2j+WoGGg==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollo\\evertec\\WebApiEvert\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Desarrollo\\evertec\\ApiEvert\\WebApiEvert\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

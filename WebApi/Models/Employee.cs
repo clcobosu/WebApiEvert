@@ -12,11 +12,10 @@ namespace WebApi.Models
         public int EmployeeId { get; set; }
         public string EmployeeName { get; set; }
         public string EmployeeLastName { get; set; }
+
+        public int EstadoCivil { get; set; }
         public DateTime DateOfBird { get; set; }
-        public int EstadoCivil { get; set; }       
         public bool Brothers { get; set; }
         public string PhotoFileName { get; set; }
-
-
     }
 }
